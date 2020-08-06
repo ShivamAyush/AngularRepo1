@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box; /* it will be a box and content will be adjusted */
+    font-family: 'Muli', 'Baloo Da 2', 'Montserrat', sans-serif;
+  }
+
+.main {   
+    width: 80%;
+    margin: auto;
+  }
+
+.card
+{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.cc
+{
+    float: left;
+    padding: 5px;
+}
+
+img
+{
+    width: auto;
+    max-width: 185px;
+    height: auto;
+}

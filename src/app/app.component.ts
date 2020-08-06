@@ -7,4 +7,16 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'RoutingDemo';
+
+    // constructor(private router:Router){}
+    // getHome(){
+    //   this.router.navigate(['/homeLink']);
+    // }
+    // getLogin(){
+    //   this.router.navigate(['/loginLink']);
+    // }
+    // getRegister(){
+    //   this.router.navigate(['/registerLink']);
+    // }
+  
 }

@@ -2,9 +2,12 @@
     box-sizing: border-box; /* it will be a box and content will be adjusted */
     font-family: 'Muli', 'Baloo Da 2', 'Montserrat', sans-serif;
   }
-
-  body {
-    font-family: Arial;
+  
+.header
+{
     padding: 10px;
-    background: #f1f1f1;
-  }
+    text-align: center;
+    background: white;
+    width: 80%;
+    margin: auto;
+}
